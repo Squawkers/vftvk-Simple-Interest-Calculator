@@ -1,4 +1,22 @@
-body {background-color:tan;}
-h1{color:green;}
-
-
+body {background-color:black;font-family:arial;color:white; padding: 10px; padding-left: 350px;}
+h1{color:Grey; font-family: verdana;}
+.maindiv {
+    background-color:white;
+    color:black;
+    width:500px;
+    padding:20px;
+    border-radius:25px;
+    align:center;
+}
+.seconddiv {
+padding-left: 100px;
+}
+.tab {
+	margin-right: 50px;
+}
+.tab2{
+	margin-right: 15px;
+}
+.tab3{
+	margin-right: 20px;
+}
